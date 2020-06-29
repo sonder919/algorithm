@@ -14,6 +14,6 @@ public class test {
         Scanner scanner=new Scanner(System.in);
         t=scanner.next().charAt(0);
         System.out.println(t+"+"+Math.random());
-
+        System.out.println("222222222222");
     }
 }
