@@ -1,5 +1,10 @@
 package com.demo.Test;
 
+import sun.awt.SunHints;
+
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -15,5 +20,6 @@ public class test {
         t=scanner.next().charAt(0);
         System.out.println(t+"+"+Math.random());
         System.out.println("222222222222");
+
     }
 }
